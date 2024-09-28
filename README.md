@@ -2,7 +2,7 @@ Hi there, I'm Chris 👋
 
 I'm currently an OSU CSE student who is passionate about software development. I love working on personal projects, exploring new technologies, and sharing my knowledge with the community.
 
-🌱 I’m currently learning React + Firebase
+🌱 I’m currently learning React + Firebase\n
 🔭 I’m currently working on a Full-Stack Workout Tracker
 🛠️ Tech Stack
 Languages: Java, Python, JavaScript, HTML, CSS, EJS, Ruby, C, Assembly
